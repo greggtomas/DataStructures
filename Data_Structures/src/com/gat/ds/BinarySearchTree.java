@@ -122,20 +122,6 @@ public class BinarySearchTree {
 		}else {
 			return findKey(node.getRight(), value);
 		}
-			
-//		if (node==null)
-//			return 0;
-//		
-//		if (node.getData() == value)
-//			return node.getData();
-//	
-//		
-//		if (value < node.getData())
-//			return findKey(node.getLeft(), value);
-//		
-//		return findKey(node.getRight(), value);
-//	
-		
 	}
 	
 	public static void main(String[] args) {
