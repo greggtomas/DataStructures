@@ -4,6 +4,7 @@ import java.util.Stack;
 /*
  * Binary Search Tree
  * 
+ * @author Gregg Tomas
  */
 public class BinarySearchTree {
 
